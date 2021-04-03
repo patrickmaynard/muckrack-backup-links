@@ -11,6 +11,10 @@ That could be useful for scraping or such at some future time.
 
 ====
 
+https://www.thecharlotteweekly.com/southcltweekly/cmpd-has-agreement-with-firm-accused-of-profiling-black-activists/article_dc2c240c-92e7-11eb-99ac-235e0fa8c9d8.html
+
+https://readsludge.com/2021/02/23/the-least-transparent-big-city-in-america/
+
 https://thegrayzone.com/2020/07/21/state-dept-transparency-international-silent-jailed-julian-assange/
 
 https://truthout.org/articles/worker-run-news-outlets-are-good-news-for-the-labor-movement/
