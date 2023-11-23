@@ -1,15 +1,43 @@
 # muckrack-backup-links
-A list of links to stories I've written, in case Muck Rack ever goes down
+A list of links to pieces I've written, in case Muck Rack ever goes down
 
-This is just a list of some links to articles and briefs I have written. (There also may be a blog post or two from the old Exercists blog at The Baltimore Sun, though I've tried to mostly weed those out in favor of more traditionally reported news.)
-
-It is not anywhere near being exhaustive, but unlike sites' internal portfolio pages, it covers more than one source.
+This is just a list of some links to staff or freelance pieces I have written. It is not anywhere near being exhaustive, but unlike sites' internal portfolio pages, it covers more than one source.
 
 That could be useful for scraping or such at some future time. 
 
 (It's not JSON, of course, but it should be pretty easy to parse/convert if needed.)
 
 ====
+
+https://qcnerve.com/north-carolina-bike-policy/
+
+https://truthout.org/articles/uk-may-block-assanges-attendance-at-appeal-to-european-court-of-human-rights/
+
+https://baltimorefishbowl.com/stories/growth-in-the-time-of-parking-craters/
+
+https://www.inquirer.com/opinion/commentary/philadelphia-government-transparency-right-to-know-20230731.html
+
+https://www.fatherly.com/health/why-dutch-children-are-happiest-in-the-world
+
+https://jacobin.com/2023/07/germany-ukraine-nato-military-aid-domestic-opposition/
+
+https://www.poynter.org/ethics-trust/2023/biden-administration-julian-assange-extradition-press-freedom-wikileaks/
+
+https://www.poynter.org/business-work/2023/wall-street-journal-evan-gershkovich-arrested-russia/
+
+https://www.stlmag.com/culture/music/vienna-welcomes-the-st-louis-symphony-orchestra/
+
+https://bloodknife.com/its-time-to-revive-the-nuclear-disaster-film/
+
+https://www.yesmagazine.org/economy/2021/12/16/car-free-city-berlin
+
+https://www.poynter.org/business-work/2021/the-biggest-american-newspaper-thats-still-not-adhering-to-gdpr/
+
+https://www.exberliner.com/berlin/the-buttons-dont-work/
+
+https://www.independent.co.uk/independentpremium/world/germany-election-propaganda-green-b1879660.html
+
+https://jacobin.com/2021/05/europe-syrian-refugees-greece-germany-frontex
 
 https://www.thecharlotteweekly.com/southcltweekly/cmpd-has-agreement-with-firm-accused-of-profiling-black-activists/article_dc2c240c-92e7-11eb-99ac-235e0fa8c9d8.html
 
