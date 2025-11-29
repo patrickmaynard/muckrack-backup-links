@@ -11,13 +11,15 @@ That could be useful for scraping or such at some future time.
 
 https://columbusfreepress.com/article/ohio-highway-patrol-has-contract-firm-tracked-abortion-patient 
 
-https://isthmus.com/news/news/from-the-university-of-wisconsin-to-los-alamos/
+https://isthmus.com/news/news/from-the-university-of-wisconsin-to-los-alamos/#the-war-criminal-on-hawthorne-court
 
 https://usa.streetsblog.org/2025/06/26/berlin-moves-closer-to-banning-cars-from-a-downtown-zone-thats-bigger-than-manhattan
 
-https://voiceofsandiego.org/2024/10/10/sdpd-makes-use-of-dangerous-flash-bang-devices/
+https://voiceofsandiego.org/2024/10/10/sdpd-makes-use-of-dangerous-flash-bang-devices/#devices-were-banned-in-nypd-searches-in-2010
 
-https://www.thepitchkc.com/kansas-city-beginning-to-follow-suit-in-expanding-streetcar-system/
+https://rabble.ca/health/full-of-it/
+
+https://www.thepitchkc.com/kansas-city-beginning-to-follow-suit-in-expanding-streetcar-system/#the-next-bullet-point-in-the-recruiting-brochure-is-a-tram
 
 https://baltimorefishbowl.com/stories/the-johns-hopkins-professor-who-proved-einstein-wrong/
 
